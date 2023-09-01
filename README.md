@@ -29,13 +29,14 @@ The limitations of this project are that the data is loaded at the start of the 
 
 
 ## Features
+
 Manages the following cryptocurrencies :
 * BTC - Bitcoin
 * ETH - Ethereum
 * XRP - Ripple
 * LTC - Litecoin
 * SHIB - Shiba
-<br><br>
+
 And the following fiat currencies :
 * USD - Dollar
 * EUR - Euro
