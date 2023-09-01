@@ -21,8 +21,8 @@
 <br>
 <br>
 
-Another school project that I put a lot of effort into, my cousin was using Tkinter and an API.
-I thought of this trading interface, where you can view the price of some crypto and convert with the price in real time, or imagine the gains or losses if you had invested in a certain crypto on a certain date.
+Another school project that I put a lot of effort into, my cousin was using Tkinter and an API.<br><br>
+I thought of this trading interface, where you can view the price of some crypto and convert with the price in real time, or imagine the gains or losses if you had invested in a certain crypto on a certain date.<br><br>
 The limitations of this project are that the data is loaded at the start of the program for quick viewing, and that for the information of a particular day it must be a date less than 1000 days ago.
 
 <br>
